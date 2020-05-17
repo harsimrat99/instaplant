@@ -32,6 +32,10 @@ I think we are always learning this - keep it simple, stupid.
 
 The next step is to validate this product in the market. Finish this MVP, win grants and investment, and prove that plant research at the distributed consumer level is the future of our health and stability.
 
+## Download
+
+Get the [APK](https://github.com/harsimrat99/instaplant/blob/master/web/public/app-release%5B1%5D.apk?raw=true)
+
 ## Screenshots
 
 ![1](/web/public/1.png)
